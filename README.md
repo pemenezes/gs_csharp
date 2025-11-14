@@ -53,8 +53,6 @@ O fluxo da solução segue uma arquitetura de 3 camadas simples e robusta:
 <img width="1145" height="135" alt="diagrama_csharp" src="https://github.com/user-attachments/assets/6a68a53b-ce71-479c-b0b0-831ce132372c" />
 
 
-(Para colar no GitHub, suba o PNG para o repositório e arraste-o para o README.md)
-
 -----
 
 ⚙️ Como Executar (Instruções para Acesso e Testes)
