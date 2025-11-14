@@ -119,6 +119,6 @@ DELETE /api/v1/Projetos/{id}: Teste a exclusão do projeto.
 
 👨‍💻 Autores
 Pedro henrique menezes mariano silva | RM97432
-
+Victoria Franceschini Pizza | RM550609
 
 Turma: 3ESPX
